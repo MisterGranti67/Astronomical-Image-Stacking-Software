@@ -77,7 +77,7 @@ Permet d'appliquer une matrice de convolution de sobel en vertical et en horizon
 Permet d'appliquer un filtre bilateral sur une image donnant un effet de flou/adoucicement sur un chaque pixel d'une image représenter via un tableau 2d via la valeur de la distribution gaussienne et la distance entre les points dans le diametre de voisin choisi permettant d'avoir une distribution plus équitable qu'un filtre gaussien classique
 
 ## 5. Crédit
-- [Gauthier Corion]
-- [Matthieu CZARKOWSKI]
+- [Matthieu CZARKOWSKI](https://github.com/la-ref) Creation of stacking, filter, scaling algorithms
+- [Gauthier CORION](https://github.com/MisterGranti67) Creating the interface with Pyqt
 
 
