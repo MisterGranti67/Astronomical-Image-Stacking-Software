@@ -10,6 +10,8 @@
 During a tutored project for our IT GOAL, we have to create image editing software (based on a .fits, .fit)
 The project is carried out in French, only this document is in English.
 
+[![Capture_principale](https://github.com/MisterGranti67/Astronomical-Image-Stacking-Software/tree/main/img/logiciel.png)]
+
 ## 2. Prerequisites
 ### 2.1 The programming language
 We have chosen the Python programming language (**Version 3.10.4 recommended**), being simplified to use and rich in library, it is easier for us to develop thanks to this one. The downside is that it is cumbersome to use, some functions can take several tens of minutes to run.
