@@ -43,6 +43,9 @@ Use the ```pip install Pyinstaller``` to download the latest version of the libr
 
 ## 4. Features
 ### 4.1 Stacking
+
+![stacking](https://github.com/MisterGranti67/Astronomical-Image-Stacking-Software/blob/main/img/stacking.png)
+
 #### 4.1.1 Sum
 Assembly of several images by adding the pixels of each image represented by a 2d array
 #### 4.1.1 Average
@@ -52,6 +55,9 @@ Assembling several images by determining the median of each pixel of the differe
 #### 4.1.1 Sigma
 Additive stitching of multiple images by adding each image with their outliers filter by the deviation and dispersion of the median for the different images of represented by a 2d array
 ### 4.2 Filters
+
+![filtrage](https://github.com/MisterGranti67/Astronomical-Image-Stacking-Software/blob/main/img/filtrage.png)
+
 #### 4.2.1 Outliers
 ##### 4.2.1.1 Median
 Allows you to remove outliers from each image in a multi-image list and replace outliers with the median based on the deviation/dispersion around the median of Q1 and Q3 with the interquartile range
@@ -81,6 +87,10 @@ Allows to apply a convolution matrix on each pixel of an image represented via a
 Allows you to apply a sobel convolution matrix vertically and horizontally giving an effect of accentuating the edges of objects in the image and applying to each pixel of an image represented via a 2d table
 #### 4.2.8 Bilateral
 Allows to apply a bilateral filter on an image giving a blur/softening effect on each pixel of an image represented via a 2d table via the value of the Gaussian distribution and the distance between the points in the chosen neighbor diameter allowing to have a fairer distribution than a classic Gaussian filter
+
+### 4.3 Scaling
+
+![scaling](https://github.com/MisterGranti67/Astronomical-Image-Stacking-Software/blob/main/img/scaling.png)
 
 ## 5. Crédit
 - [Matthieu CZARKOWSKI](https://github.com/la-ref) Creation of stacking, filter, scaling algorithms
