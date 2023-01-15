@@ -35,7 +35,7 @@ Use the ```pip install Pyinstaller``` to download the latest version of the libr
 >>>> d. Place your file "M13_blue" holding the name fit images "M13_blue_000X"
 >>>>> e.Open the main.py file and run the command "```python main.py```"
 
-## 4. Fonctionnalities
+## 4. Features
 ### 4.1 Stacking
 #### 4.1.1 Sum
 Assembly of several images by adding the pixels of each image represented by a 2d array
