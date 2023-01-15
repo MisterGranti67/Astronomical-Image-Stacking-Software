@@ -10,7 +10,7 @@
 During a tutored project for our IT GOAL, we have to create image editing software (based on a .fits, .fit)
 The project is carried out in French, only this document is in English.
 
-[![Capture_principale](https://github.com/MisterGranti67/Astronomical-Image-Stacking-Software/tree/main/img/logiciel.png)]
+[![logiciel](https://github.com/MisterGranti67/Astronomical-Image-Stacking-Software/tree/main/img/logiciel.png)]
 
 ## 2. Prerequisites
 ### 2.1 The programming language
